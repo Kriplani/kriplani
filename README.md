@@ -2,7 +2,7 @@ Hi there 👋
 I am Kriplani
 
 - 🔭 I’m currently working on my Skills
-- 🌱 I’m currently learning coding with java and Web development
+- 🌱 I’m currently learning Web development and coding with java
 - 👯 I’m looking to collaborate on OpenSource Project
 
 - 📫 How to reach me: kriplani2001@gmail.com
