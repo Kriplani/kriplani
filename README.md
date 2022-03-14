@@ -9,4 +9,4 @@ I am Kriplani
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to listen songs 
 
-<img src="https://github-readme-stats.vercel.app/api?username=kriplani&&show_icons=true&title_color=00FFFF&icon_color=00FFFF&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=kriplani&&show_icons=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=daf7dc&bg_color=151515">
